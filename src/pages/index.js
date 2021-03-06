@@ -8,8 +8,8 @@ import {
 } from "@material-ui/core";
 import { Autocomplete } from "@material-ui/lab";
 import { makeStyles } from "@material-ui/core/styles";
-import useSWR from "swr";
 import classNames from "classnames";
+import foods from "../../food.json";
 
 const useStyles = makeStyles({
   root: {
@@ -28,11 +28,7 @@ const useStyles = makeStyles({
   },
 });
 
-const Index = () => {
-  const fetcher = (url) => {
-    return fetch(url).then((r) => r.json());
-  };
-  const { data } = useSWR("/api/food", fetcher);
+const Index = ({ data }) => {
   const classes = useStyles();
   const [selectedFood, setSelectedFood] = useState();
 
@@ -48,7 +44,6 @@ const Index = () => {
         id="fodmap-food-autocomplete"
         options={data}
         onChange={getSelectedFood}
-        disableOpenOnFocus
         getOptionLabel={(option) => option.name}
         renderInput={(params) => (
           <TextField {...params} label="Search" variant="outlined" fullWidth />
@@ -75,5 +70,15 @@ const Index = () => {
     </Container>
   );
 };
+
+export async function getStaticProps() {
+  const data = foods;
+
+  return {
+    props: {
+      data,
+    },
+  };
+}
 
 export default Index;
