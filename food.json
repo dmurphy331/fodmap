@@ -1535,7 +1535,8 @@
   {
     "id": "135",
     "name": "Blueberry",
-    "fodmap": "low",
+    "fodmap": "medium",
+    "qty": "50g",
     "category": "Fruit",
     "details": {
       "oligos": 0,
@@ -1835,9 +1836,9 @@
   {
     "id": "160",
     "name": "Coconut (fresh or dried)",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Fruit",
-    "qty": "1/2 cup",
+    "qty": "64g",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -1862,6 +1863,7 @@
     "name": "Coconut water",
     "fodmap": "high",
     "category": "Drinks",
+    "qty": "100ml",
     "details": {
       "oligos": 1,
       "fructose": 0,
@@ -4335,9 +4337,9 @@
   {
     "id": "374",
     "name": "Banana, dried",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Fruit",
-    "qty": "20",
+    "qty": "15",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -4616,7 +4618,8 @@
   {
     "id": "397",
     "name": "Lychee",
-    "fodmap": "high",
+    "fodmap": "medium",
+    "qty": "40g",
     "category": "Fruit",
     "details": {
       "oligos": 0,
@@ -5091,6 +5094,150 @@
     "name": "Chili powder",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "437",
+    "name": "Pitta, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "438",
+    "name": "Bagels, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "439",
+    "name": "Ciabatta, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "440",
+    "name": "Focaccia, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "440",
+    "name": "Panini, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "441",
+    "name": "Naan, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "442",
+    "name": "Chapati, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "443",
+    "name": "Croissants, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "444",
+    "name": "Brioche, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "445",
+    "name": "Pizza dough, bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "446",
+    "name": "Egg noodles",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "446",
+    "name": "Udon noodles",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
     "details": {
       "oligos": 0,
       "fructose": 0,

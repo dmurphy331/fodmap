@@ -22,6 +22,10 @@ const useStyles = makeStyles({
     backgroundColor: "rgb(237, 247, 237)",
     border: "1px solid rgb(30, 70, 32)",
   },
+  medium: {
+    backgroundColor: "rgb(255, 242, 204)",
+    border: "1px solid rgb(30, 70, 32)",
+  },
   high: {
     backgroundColor: "rgb(253, 236, 234)",
     border: "1px solid rgb(97, 26, 21)",
@@ -51,10 +55,7 @@ const Index = ({ data }) => {
       />
       {selectedFood ? (
         <Card
-          className={classNames(
-            classes.card,
-            selectedFood.fodmap === "high" ? classes.high : classes.low
-          )}
+          className={classNames(classes.card, classes[selectedFood.fodmap])}
         >
           <CardContent>
             <Typography variant="h4" gutterBottom>
