@@ -378,7 +378,8 @@
   {
     "id": "32",
     "name": "Pomegranate",
-    "fodmap": "high",
+    "fodmap": "medium",
+    "qty": "55g",
     "category": "Fruit",
     "details": {
       "oligos": 2,
@@ -1838,7 +1839,7 @@
     "name": "Coconut (fresh or dried)",
     "fodmap": "medium",
     "category": "Fruit",
-    "qty": "64g",
+    "qty": "45g",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -1861,7 +1862,7 @@
   {
     "id": "162",
     "name": "Coconut water",
-    "fodmap": "high",
+    "fodmap": "medium",
     "category": "Drinks",
     "qty": "100ml",
     "details": {
@@ -2716,9 +2717,9 @@
   {
     "id": "238",
     "name": "Orange juice",
-    "fodmap": "high",
+    "fodmap": "medium",
     "category": "Drinks",
-    "qty": "125ml",
+    "qty": "100 ml",
     "details": {
       "oligos": 0,
       "fructose": 2,
@@ -2886,8 +2887,9 @@
   },
   {
     "id": "252",
-    "name": "Pineapple",
-    "fodmap": "low",
+    "name": "Pineapple, dried",
+    "fodmap": "medium",
+    "qty": "25g",
     "category": "Fruit",
     "details": {
       "oligos": 0,
@@ -3499,7 +3501,8 @@
   {
     "id": "304",
     "name": "Tamarind",
-    "fodmap": "low",
+    "fodmap": "medium",
+    "qty": "10g",
     "category": "Fruit",
     "details": {
       "oligos": 0,
@@ -4339,7 +4342,7 @@
     "name": "Banana, dried",
     "fodmap": "medium",
     "category": "Fruit",
-    "qty": "15",
+    "qty": "30g",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -4471,8 +4474,9 @@
   },
   {
     "id": "385",
-    "name": "Persimmon",
-    "fodmap": "high",
+    "name": "Persimmon, Sharon fruit",
+    "fodmap": "medium",
+    "qty": "1/2",
     "category": "Fruit",
     "details": {
       "oligos": 2,
@@ -4728,9 +4732,9 @@
   {
     "id": "406",
     "name": "Dried Cranberries",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Fruit",
-    "qty": "1/2 tablespoon",
+    "qty": "1 tbsp",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -4958,7 +4962,7 @@
   {
     "id": "425",
     "name": "Cranberry, dried",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Fruit",
     "qty": "1 tbsp",
     "details": {
@@ -4995,7 +4999,7 @@
   {
     "id": "428",
     "name": "Cranberry Juice",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Drinks",
     "qty": "250 ml",
     "details": {
@@ -5234,13 +5238,90 @@
     }
   },
   {
-    "id": "446",
+    "id": "447",
     "name": "Udon noodles",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
     "details": {
       "oligos": 0,
       "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "448",
+    "name": "Papaya, dried",
+    "fodmap": "medium",
+    "qty": "5g",
+    "category": "Fruit",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "449",
+    "name": "Raisins, dried",
+    "fodmap": "medium",
+    "qty": "12g",
+    "category": "Fruit",
+    "details": {
+      "oligos": 2,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "450",
+    "name": "Pineapple juice",
+    "fodmap": "medium",
+    "qty": "100 ml",
+    "category": "Drinks",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "450",
+    "name": "Tomato juice",
+    "fodmap": "medium",
+    "qty": "200 ml",
+    "category": "Drinks",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "451",
+    "name": "Guava, canned",
+    "fodmap": "medium",
+    "qty": "45g",
+    "category": "Fruit",
+    "details": {
+      "oligos": 0,
+      "fructose": 2,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "id": "451",
+    "name": "Guava juice",
+    "fodmap": "high",
+    "category": "Drinks",
+    "details": {
+      "oligos": 0,
+      "fructose": 2,
       "polyols": 0,
       "lactose": 0
     }
