@@ -23,7 +23,7 @@ export default function MealPlanner({ recipes }) {
   );
 }
 
-export async function getStaticProps(context) {
+export async function getServerSideProps(context) {
   const meals = recipes.sort(() => 0.5 - Math.random()).slice(0, 7);
 
   return {
