@@ -10,11 +10,12 @@ export default function MealPlanner({ recipes }) {
     "Saturday",
     "Sunday",
   ];
+  const meals = recipes.sort(() => 0.5 - Math.random()).slice(0, 7);
   return (
     <>
       <h2>Meal planner</h2>
-      {recipes &&
-        recipes.map((meal, index) => (
+      {meals &&
+        meals.map((meal, index) => (
           <h4>
             {days[index]} - {meal.title}
           </h4>
@@ -23,12 +24,12 @@ export default function MealPlanner({ recipes }) {
   );
 }
 
-export async function getServerSideProps(context) {
-  const meals = recipes.sort(() => 0.5 - Math.random()).slice(0, 7);
+export async function getStaticProps(context) {
+  const data = recipes;
 
   return {
     props: {
-      recipes: meals,
+      recipes: data,
     },
   };
 }
