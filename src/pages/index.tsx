@@ -9,6 +9,7 @@ import {
 import { Autocomplete } from "@material-ui/lab";
 import { makeStyles } from "@material-ui/core/styles";
 import classNames from "classnames";
+import { Food } from "../types/Food";
 import foods from "../../food.json";
 
 const useStyles = makeStyles({
@@ -34,7 +35,7 @@ const useStyles = makeStyles({
 
 const Index = ({ data }) => {
   const classes = useStyles();
-  const [selectedFood, setSelectedFood] = useState();
+  const [selectedFood, setSelectedFood] = useState<Food>();
 
   const getSelectedFood = (event, value) => {
     if (value) {
