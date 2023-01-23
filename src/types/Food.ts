@@ -1,7 +1,7 @@
 export interface Food {
   id: string;
   name: string;
-  fodmap: string;
+  fodmap: "low" | "high" | "medium" | "root" | "card";
   category: string;
   qty: string;
   details: {

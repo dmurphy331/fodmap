@@ -33,11 +33,18 @@ const useStyles = makeStyles({
   },
 });
 
-const Index = ({ data }) => {
+interface PageProps {
+  data: Food[];
+}
+
+const Index = ({ data }: PageProps) => {
   const classes = useStyles();
   const [selectedFood, setSelectedFood] = useState<Food>();
 
-  const getSelectedFood = (event, value) => {
+  const getSelectedFood = (
+    event: React.ChangeEvent<{}>,
+    value: Food | null
+  ) => {
     if (value) {
       setSelectedFood(value);
     }
@@ -73,6 +80,8 @@ const Index = ({ data }) => {
   );
 };
 
+export default Index;
+
 export async function getStaticProps() {
   const data = foods;
 
@@ -82,5 +91,3 @@ export async function getStaticProps() {
     },
   };
 }
-
-export default Index;

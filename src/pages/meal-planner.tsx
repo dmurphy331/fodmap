@@ -1,7 +1,18 @@
+import { useEffect, useState } from "react";
 import recipes from "../../recipes.json";
 import { Recipe } from "../types/Recipe";
 
-export default function MealPlanner({ recipes }) {
+interface PageProps {
+  recipes: Recipe[];
+}
+
+export default function MealPlanner({ recipes }: PageProps) {
+  const [meals, setMeals] = useState<Recipe[]>();
+
+  useEffect(() => {
+    setMeals(recipes.sort(() => 0.5 - Math.random()).slice(0, 7));
+  }, [recipes]);
+
   const days = [
     "Monday",
     "Tuesday",
@@ -11,7 +22,7 @@ export default function MealPlanner({ recipes }) {
     "Saturday",
     "Sunday",
   ];
-  const meals: Recipe[] = recipes.sort(() => 0.5 - Math.random()).slice(0, 7);
+
   return (
     <>
       <h2>Meal planner</h2>
@@ -25,7 +36,7 @@ export default function MealPlanner({ recipes }) {
   );
 }
 
-export async function getStaticProps(context) {
+export async function getStaticProps() {
   const data = recipes;
 
   return {
