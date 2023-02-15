@@ -26,7 +26,7 @@ class MyDocument extends Document {
             content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no"
           />
         </Head>
-        <body className="text-grey-3">
+        <body className="bg-slate-50">
           <Main />
           <NextScript />
         </body>

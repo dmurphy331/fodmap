@@ -1,44 +1,15 @@
 import React, { useState } from "react";
-import {
-  TextField,
-  Container,
-  Card,
-  CardContent,
-  Typography,
-} from "@material-ui/core";
+import { TextField } from "@material-ui/core";
 import { Autocomplete } from "@material-ui/lab";
-import { makeStyles } from "@material-ui/core/styles";
 import classNames from "classnames";
 import { Food } from "../types/Food";
 import foods from "../../food.json";
-
-const useStyles = makeStyles({
-  root: {
-    marginTop: "25px",
-  },
-  card: {
-    marginTop: "25px",
-  },
-  low: {
-    backgroundColor: "rgb(237, 247, 237)",
-    border: "1px solid rgb(30, 70, 32)",
-  },
-  medium: {
-    backgroundColor: "rgb(255, 242, 204)",
-    border: "1px solid rgb(30, 70, 32)",
-  },
-  high: {
-    backgroundColor: "rgb(253, 236, 234)",
-    border: "1px solid rgb(97, 26, 21)",
-  },
-});
 
 interface PageProps {
   data: Food[];
 }
 
 const Index = ({ data }: PageProps) => {
-  const classes = useStyles();
   const [selectedFood, setSelectedFood] = useState<Food>();
 
   const getSelectedFood = (
@@ -51,7 +22,13 @@ const Index = ({ data }: PageProps) => {
   };
 
   return (
-    <Container className={classes.root} maxWidth="sm">
+    <div className={"container mx-auto max-w-xl px-4"}>
+      <h1 className="text-3xl font-bold py-4 text-center text-green-700">
+        FODMAP
+      </h1>
+      <p className="py-4">
+        Tool for checking food and ingredients that are high and low in FODMAPS
+      </p>
       <Autocomplete
         id="fodmap-food-autocomplete"
         options={data}
@@ -62,21 +39,23 @@ const Index = ({ data }: PageProps) => {
         )}
       />
       {selectedFood ? (
-        <Card
-          className={classNames(classes.card, classes[selectedFood.fodmap])}
+        <div
+          className={classNames("mt-6 p-4", {
+            "border-red-300 border bg-red-200": selectedFood.fodmap === "high",
+            "border-orange-300 border bg-orange-200":
+              selectedFood.fodmap === "medium",
+            "border-green-300 border bg-green-200":
+              selectedFood.fodmap === "low",
+          })}
         >
-          <CardContent>
-            <Typography variant="h4" gutterBottom>
-              {selectedFood.name}
-            </Typography>
-            <Typography>{selectedFood.category}</Typography>
-            {selectedFood.qty ? (
-              <Typography>Quantity: {selectedFood.qty}</Typography>
-            ) : null}
-          </CardContent>
-        </Card>
+          <div>
+            <h4 className="text-2xl font-bold pb-4">{selectedFood.name}</h4>
+            <p>{selectedFood.category}</p>
+            {selectedFood.qty ? <p>Quantity: {selectedFood.qty}</p> : null}
+          </div>
+        </div>
       ) : null}
-    </Container>
+    </div>
   );
 };
 
