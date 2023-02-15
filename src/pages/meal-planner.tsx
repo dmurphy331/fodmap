@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import shuffle from "just-shuffle";
 import recipes from "../../recipes.json";
 import { Recipe } from "../types/Recipe";
 
@@ -10,7 +11,7 @@ export default function MealPlanner({ recipes }: PageProps) {
   const [meals, setMeals] = useState<Recipe[]>();
 
   useEffect(() => {
-    setMeals(recipes.sort(() => 0.5 - Math.random()).slice(0, 7));
+    setMeals(shuffle(recipes).slice(0, 7));
   }, [recipes]);
 
   const days = [
@@ -25,11 +26,11 @@ export default function MealPlanner({ recipes }: PageProps) {
 
   return (
     <>
-      <h2>Meal planner</h2>
+      <h2 className="text-3xl font-bold py-4">Meal planner</h2>
       {meals &&
         meals.map((meal, index) => (
           <h4 key={index}>
-            {days[index]} - {meal.title}
+            <span className="font-bold">{days[index]}</span> - {meal.title}
           </h4>
         ))}
     </>
