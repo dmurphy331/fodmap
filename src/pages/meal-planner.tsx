@@ -3,11 +3,11 @@ import shuffle from "just-shuffle";
 import recipes from "../../recipes.json";
 import { Recipe } from "../types/Recipe";
 
-interface PageProps {
+interface MealPlannerPageProps {
   recipes: Recipe[];
 }
 
-export default function MealPlanner({ recipes }: PageProps) {
+export default function MealPlanner({ recipes }: MealPlannerPageProps) {
   const [meals, setMeals] = useState<Recipe[]>();
 
   useEffect(() => {
