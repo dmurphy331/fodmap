@@ -1,10 +1,9 @@
 export interface Food {
-  id: string;
   name: string;
-  fodmap: "low" | "high" | "medium" | "root" | "card";
+  fodmap: "low" | "high" | "medium";
   category: string;
-  qty: string;
-  details: {
+  qty?: string;
+  details?: {
     oligos: number;
     fructose: number;
     polyols: number;

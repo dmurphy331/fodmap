@@ -380,17 +380,6 @@
     }
   },
   {
-    "name": "Pumpkin seeds",
-    "fodmap": "low",
-    "category": "Nuts and Seeds",
-    "details": {
-      "oligos": 0,
-      "fructose": 0,
-      "polyols": 0,
-      "lactose": 0
-    }
-  },
-  {
     "name": "Pomegranate",
     "fodmap": "medium",
     "qty": "55g",
