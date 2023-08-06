@@ -1,6 +1,5 @@
 [
   {
-    "id": "1",
     "name": "Polenta",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -12,8 +11,19 @@
     }
   },
   {
-    "id": "2",
-    "name": "Fennel",
+    "name": "Mangetout",
+    "fodmap": "medium",
+    "qty": "5 pods/20g",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "name": "Fennel, leaves",
     "fodmap": "low",
     "category": "Vegetables and legumes",
     "details": {
@@ -24,7 +34,29 @@
     }
   },
   {
-    "id": "3",
+    "name": "Fennel, bulb",
+    "fodmap": "medium",
+    "qty": "3 tbsp/60g",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "name": "Breadfruit",
+    "fodmap": "low",
+    "category": "Fruit",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Vegetable oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -36,7 +68,6 @@
     }
   },
   {
-    "id": "4",
     "name": "Peanut oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -48,7 +79,6 @@
     }
   },
   {
-    "id": "5",
     "name": "Cocoa powder",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -60,7 +90,6 @@
     }
   },
   {
-    "id": "6",
     "name": "Pineapple",
     "fodmap": "low",
     "category": "Fruit",
@@ -72,7 +101,6 @@
     }
   },
   {
-    "id": "7",
     "name": "Hummus / houmous",
     "fodmap": "high",
     "category": "Condiments",
@@ -84,7 +112,6 @@
     }
   },
   {
-    "id": "8",
     "name": "Instant coffee (only if not made with lactose or other FODMAPS)",
     "fodmap": "low",
     "category": "Drinks",
@@ -96,7 +123,6 @@
     }
   },
   {
-    "id": "9",
     "name": "Coffee (regular or decaf)",
     "fodmap": "low",
     "category": "Drinks",
@@ -108,7 +134,6 @@
     }
   },
   {
-    "id": "10",
     "name": "Tofu (drained or firm)",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -120,7 +145,6 @@
     }
   },
   {
-    "id": "11",
     "name": "Canola oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -132,11 +156,10 @@
     }
   },
   {
-    "id": "12",
     "name": "Brussel sprouts",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Vegetables and legumes",
-    "qty": "2",
+    "qty": "3/60g",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -145,7 +168,6 @@
     }
   },
   {
-    "id": "13",
     "name": "Peanut butter",
     "fodmap": "low",
     "category": "Condiments",
@@ -157,7 +179,6 @@
     }
   },
   {
-    "id": "14",
     "name": "Almond butter",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -170,7 +191,6 @@
     }
   },
   {
-    "id": "15",
     "name": "Seaweed / nori",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -182,7 +202,17 @@
     }
   },
   {
-    "id": "16",
+    "name": "Seaweed / wakame",
+    "fodmap": "high",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Pine nuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -195,7 +225,6 @@
     }
   },
   {
-    "id": "17",
     "name": "Lime juice",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -207,7 +236,6 @@
     }
   },
   {
-    "id": "18",
     "name": "Lime",
     "fodmap": "low",
     "category": "Fruit",
@@ -219,7 +247,6 @@
     }
   },
   {
-    "id": "19",
     "name": "Figs, dried",
     "fodmap": "high",
     "category": "Fruit",
@@ -231,7 +258,6 @@
     }
   },
   {
-    "id": "20",
     "name": "Silverbeet / chard",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -243,7 +269,6 @@
     }
   },
   {
-    "id": "21",
     "name": "Ginger",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -255,7 +280,6 @@
     }
   },
   {
-    "id": "22",
     "name": "Coconut oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -267,7 +291,6 @@
     }
   },
   {
-    "id": "23",
     "name": "Scallop",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -279,7 +302,6 @@
     }
   },
   {
-    "id": "24",
     "name": "Flax seeds/lineseed",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -292,7 +314,6 @@
     }
   },
   {
-    "id": "25",
     "name": "Leeks",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -304,7 +325,6 @@
     }
   },
   {
-    "id": "26",
     "name": "Kholrabi",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -316,7 +336,6 @@
     }
   },
   {
-    "id": "27",
     "name": "Cherries",
     "fodmap": "high",
     "category": "Fruit",
@@ -328,7 +347,6 @@
     }
   },
   {
-    "id": "28",
     "name": "Baking soda",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -340,7 +358,6 @@
     }
   },
   {
-    "id": "29",
     "name": "Turmeric",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -352,7 +369,6 @@
     }
   },
   {
-    "id": "30",
     "name": "Baking powder",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -364,7 +380,6 @@
     }
   },
   {
-    "id": "31",
     "name": "Pumpkin seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -376,7 +391,6 @@
     }
   },
   {
-    "id": "32",
     "name": "Pomegranate",
     "fodmap": "medium",
     "qty": "55g",
@@ -389,7 +403,6 @@
     }
   },
   {
-    "id": "33",
     "name": "Pinto beans",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -401,7 +414,6 @@
     }
   },
   {
-    "id": "34",
     "name": "Dates",
     "fodmap": "high",
     "category": "Fruit",
@@ -413,7 +425,6 @@
     }
   },
   {
-    "id": "35",
     "name": "Curry powder",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -425,7 +436,6 @@
     }
   },
   {
-    "id": "36",
     "name": "Coconut sugar",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -437,7 +447,6 @@
     }
   },
   {
-    "id": "37",
     "name": "Coconut cream",
     "fodmap": "low",
     "category": "Milk",
@@ -450,7 +459,6 @@
     }
   },
   {
-    "id": "38",
     "name": "Vinegar",
     "fodmap": "low",
     "category": "Condiments",
@@ -462,7 +470,6 @@
     }
   },
   {
-    "id": "39",
     "name": "Bacon",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -474,7 +481,6 @@
     }
   },
   {
-    "id": "40",
     "name": "Vanilla",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -486,7 +492,6 @@
     }
   },
   {
-    "id": "41",
     "name": "Prune",
     "fodmap": "high",
     "category": "Fruit",
@@ -498,7 +503,6 @@
     }
   },
   {
-    "id": "43",
     "name": "Brown sugar",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -510,7 +514,6 @@
     }
   },
   {
-    "id": "44",
     "name": "White sugar",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -522,7 +525,6 @@
     }
   },
   {
-    "id": "45",
     "name": "Maple syrup",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -534,7 +536,6 @@
     }
   },
   {
-    "id": "46",
     "name": "Ground beef",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -546,19 +547,16 @@
     }
   },
   {
-    "id": "48",
     "name": "Croissants",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta"
   },
   {
-    "id": "49",
     "name": "Crumpets",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta"
   },
   {
-    "id": "51",
     "name": "Margarine",
     "fodmap": "low",
     "category": "Dairy",
@@ -570,7 +568,6 @@
     }
   },
   {
-    "id": "52",
     "name": "Ketchup (USA)",
     "fodmap": "low",
     "category": "Condiments",
@@ -583,11 +580,9 @@
     }
   },
   {
-    "id": "53",
-    "name": "Lentils, boiled",
-    "fodmap": "low",
+    "name": "Lentils",
+    "fodmap": "high",
     "category": "Vegetables and legumes",
-    "qty": "1/4 cup",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -596,7 +591,6 @@
     }
   },
   {
-    "id": "54",
     "name": "Shallot",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -608,7 +602,6 @@
     }
   },
   {
-    "id": "55",
     "name": "Nectarine",
     "fodmap": "high",
     "category": "Fruit",
@@ -620,7 +613,6 @@
     }
   },
   {
-    "id": "56",
     "name": "Mandarin",
     "fodmap": "low",
     "category": "Fruit",
@@ -632,7 +624,6 @@
     }
   },
   {
-    "id": "57",
     "name": "Whiskey",
     "fodmap": "low",
     "category": "Drinks",
@@ -644,7 +635,6 @@
     }
   },
   {
-    "id": "58",
     "name": "Vodka",
     "fodmap": "low",
     "category": "Drinks",
@@ -656,7 +646,6 @@
     }
   },
   {
-    "id": "59",
     "name": "Yam",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -668,7 +657,6 @@
     }
   },
   {
-    "id": "60",
     "name": "Rutabaga/Swede",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -680,7 +668,6 @@
     }
   },
   {
-    "id": "61",
     "name": "Radish",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -692,7 +679,6 @@
     }
   },
   {
-    "id": "62",
     "name": "Olives",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -704,7 +690,6 @@
     }
   },
   {
-    "id": "63",
     "name": "Chives",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -716,7 +701,6 @@
     }
   },
   {
-    "id": "64",
     "name": "Bell pepper",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -728,7 +712,6 @@
     }
   },
   {
-    "id": "65",
     "name": "Arugula",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -740,7 +723,6 @@
     }
   },
   {
-    "id": "66",
     "name": "Bok choy",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -752,7 +734,6 @@
     }
   },
   {
-    "id": "67",
     "name": "Taro",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -764,7 +745,6 @@
     }
   },
   {
-    "id": "68",
     "name": "Soy beans, boiled",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -776,7 +756,6 @@
     }
   },
   {
-    "id": "69",
     "name": "Mung beans, boiled",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -788,7 +767,6 @@
     }
   },
   {
-    "id": "70",
     "name": "Lima beans, boiled",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -800,7 +778,6 @@
     }
   },
   {
-    "id": "71",
     "name": "Haricot beans, boiled",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -812,7 +789,6 @@
     }
   },
   {
-    "id": "72",
     "name": "Sauerkraut",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -824,7 +800,6 @@
     }
   },
   {
-    "id": "73",
     "name": "Falafel",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -836,7 +811,6 @@
     }
   },
   {
-    "id": "74",
     "name": "Chayote / choko",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -848,7 +822,6 @@
     }
   },
   {
-    "id": "75",
     "name": "Cho Cho",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -860,7 +833,6 @@
     }
   },
   {
-    "id": "76",
     "name": "Cassava",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -872,8 +844,7 @@
     }
   },
   {
-    "id": "77",
-    "name": "Butter beans, canned",
+    "name": "Butter beans, canned, dried",
     "fodmap": "high",
     "category": "Vegetables and legumes",
     "details": {
@@ -884,7 +855,6 @@
     }
   },
   {
-    "id": "78",
     "name": "Broad beans",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -896,10 +866,10 @@
     }
   },
   {
-    "id": "79",
-    "name": "Kidney beans, boiled",
-    "fodmap": "high",
+    "name": "Kidney beans, canned",
+    "fodmap": "medium",
     "category": "Vegetables and legumes",
+    "qty": "3 tbsp",
     "details": {
       "oligos": 2,
       "fructose": 0,
@@ -908,13 +878,16 @@
     }
   },
   {
-    "id": "80",
     "name": "Black eyed peas",
     "fodmap": "high",
     "category": "Vegetables and legumes"
   },
   {
-    "id": "81",
+    "name": "Borlotti beans",
+    "fodmap": "high",
+    "category": "Vegetables and legumes"
+  },
+  {
     "name": "Black beans, boiled",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -926,9 +899,9 @@
     }
   },
   {
-    "id": "82",
     "name": "Beetroots/Beets",
-    "fodmap": "high",
+    "fodmap": "medium",
+    "qty": "2 Slices/20g",
     "category": "Vegetables and legumes",
     "details": {
       "oligos": 2,
@@ -938,7 +911,6 @@
     }
   },
   {
-    "id": "83",
     "name": "Baked beans",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -950,8 +922,7 @@
     }
   },
   {
-    "id": "84",
-    "name": "Artichoke, globe",
+    "name": "Artichoke, globe, jerusalem",
     "fodmap": "high",
     "category": "Vegetables and legumes",
     "details": {
@@ -962,7 +933,17 @@
     }
   },
   {
-    "id": "85",
+    "name": "Karela",
+    "fodmap": "high",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 2,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Kefir",
     "fodmap": "high",
     "category": "Dairy",
@@ -974,7 +955,6 @@
     }
   },
   {
-    "id": "86",
     "name": "White tea",
     "fodmap": "low",
     "category": "Drinks",
@@ -986,7 +966,6 @@
     }
   },
   {
-    "id": "87",
     "name": "Green tea",
     "fodmap": "low",
     "category": "Drinks",
@@ -998,7 +977,6 @@
     }
   },
   {
-    "id": "88",
     "name": "Black tea, weak",
     "fodmap": "low",
     "category": "Drinks",
@@ -1010,7 +988,6 @@
     }
   },
   {
-    "id": "89",
     "name": "Black tea, strong",
     "fodmap": "high",
     "category": "Drinks",
@@ -1022,7 +999,6 @@
     }
   },
   {
-    "id": "90",
     "name": "Chai tea, weak",
     "fodmap": "low",
     "category": "Drinks",
@@ -1034,7 +1010,6 @@
     }
   },
   {
-    "id": "91",
     "name": "Oolong tea",
     "fodmap": "high",
     "category": "Drinks",
@@ -1046,7 +1021,6 @@
     }
   },
   {
-    "id": "92",
     "name": "Dandelion tea, strong",
     "fodmap": "high",
     "category": "Drinks",
@@ -1058,7 +1032,6 @@
     }
   },
   {
-    "id": "93",
     "name": "Chai tea, strong",
     "fodmap": "high",
     "category": "Drinks",
@@ -1070,7 +1043,6 @@
     }
   },
   {
-    "id": "94",
     "name": "Chamomile tea",
     "fodmap": "high",
     "category": "Drinks",
@@ -1082,7 +1054,6 @@
     }
   },
   {
-    "id": "96",
     "name": "Rum",
     "fodmap": "high",
     "category": "Drinks",
@@ -1094,13 +1065,11 @@
     }
   },
   {
-    "id": "97",
     "name": "Cold cuts / deli meat / cold meats such as ham",
     "fodmap": "low",
     "category": "Meat & Substitutes"
   },
   {
-    "id": "98",
     "name": "Turkey",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -1112,7 +1081,6 @@
     }
   },
   {
-    "id": "99",
     "name": "Prosciutto",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -1124,7 +1092,6 @@
     }
   },
   {
-    "id": "100",
     "name": "Thyme",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1136,7 +1103,6 @@
     }
   },
   {
-    "id": "101",
     "name": "Tarragon",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1148,7 +1114,6 @@
     }
   },
   {
-    "id": "102",
     "name": "Rosemary",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1160,7 +1125,6 @@
     }
   },
   {
-    "id": "103",
     "name": "Rampa / pandan leaves",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1172,7 +1136,6 @@
     }
   },
   {
-    "id": "105",
     "name": "Oregano",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1184,7 +1147,6 @@
     }
   },
   {
-    "id": "106",
     "name": "Mint",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1196,7 +1158,6 @@
     }
   },
   {
-    "id": "107",
     "name": "Lemongrass",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1208,7 +1169,6 @@
     }
   },
   {
-    "id": "108",
     "name": "Gotukala",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1220,7 +1180,6 @@
     }
   },
   {
-    "id": "109",
     "name": "Fenugreek leaves, dried",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1232,7 +1191,6 @@
     }
   },
   {
-    "id": "110",
     "name": "Curry leaves",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1244,7 +1202,6 @@
     }
   },
   {
-    "id": "111",
     "name": "Coriander",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1256,7 +1213,6 @@
     }
   },
   {
-    "id": "112",
     "name": "Cilantro",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1268,7 +1224,6 @@
     }
   },
   {
-    "id": "113",
     "name": "Basil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1280,7 +1235,6 @@
     }
   },
   {
-    "id": "114",
     "name": "Parsley",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1292,7 +1246,6 @@
     }
   },
   {
-    "id": "115",
     "name": "Cinnamon",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -1304,7 +1257,6 @@
     }
   },
   {
-    "id": "116",
     "name": "Acesulfame K",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -1316,7 +1268,6 @@
     }
   },
   {
-    "id": "117",
     "name": "Agave",
     "fodmap": "high",
     "category": "Sweeteners",
@@ -1328,7 +1279,6 @@
     }
   },
   {
-    "id": "118",
     "name": "Almond milk",
     "fodmap": "low",
     "category": "Milk",
@@ -1340,7 +1290,6 @@
     }
   },
   {
-    "id": "119",
     "name": "Almonds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -1353,7 +1302,6 @@
     }
   },
   {
-    "id": "120",
     "name": "Apple juice",
     "fodmap": "high",
     "category": "Drinks",
@@ -1365,7 +1313,6 @@
     }
   },
   {
-    "id": "121",
     "name": "Apples",
     "fodmap": "high",
     "category": "Fruit",
@@ -1377,7 +1324,6 @@
     }
   },
   {
-    "id": "122",
     "name": "Apricot",
     "fodmap": "high",
     "category": "Fruit",
@@ -1389,7 +1335,6 @@
     }
   },
   {
-    "id": "123",
     "name": "Asparagus",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -1401,7 +1346,17 @@
     }
   },
   {
-    "id": "124",
+    "name": "Adzuki bean, canned, dried",
+    "fodmap": "high",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 0,
+      "fructose": 2,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Aspartame",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -1413,9 +1368,9 @@
     }
   },
   {
-    "id": "125",
     "name": "Avocado",
-    "fodmap": "high",
+    "fodmap": "medium",
+    "qty": "45g",
     "category": "Fruit",
     "details": {
       "oligos": 0,
@@ -1425,7 +1380,6 @@
     }
   },
   {
-    "id": "126",
     "name": "Bamboo shoots",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -1437,10 +1391,10 @@
     }
   },
   {
-    "id": "127",
     "name": "Bananas, ripe",
-    "fodmap": "high",
+    "fodmap": "medium",
     "category": "Fruit",
+    "qty": "45g",
     "details": {
       "oligos": 2,
       "fructose": 0,
@@ -1449,7 +1403,12 @@
     }
   },
   {
-    "id": "128",
+    "name": "Boysenberries",
+    "fodmap": "medium",
+    "category": "Fruit",
+    "qty": "10"
+  },
+  {
     "name": "Barbeque sauce",
     "fodmap": "low",
     "category": "Condiments",
@@ -1461,7 +1420,6 @@
     }
   },
   {
-    "id": "129",
     "name": "Barley, pearl",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -1473,7 +1431,6 @@
     }
   },
   {
-    "id": "130",
     "name": "Bean sprouts",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -1485,7 +1442,6 @@
     }
   },
   {
-    "id": "131",
     "name": "Beef",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -1497,7 +1453,6 @@
     }
   },
   {
-    "id": "132",
     "name": "Eggs",
     "fodmap": "low",
     "category": "Dairy",
@@ -1509,7 +1464,6 @@
     }
   },
   {
-    "id": "133",
     "name": "Beer",
     "fodmap": "low",
     "category": "Drinks",
@@ -1522,7 +1476,6 @@
     }
   },
   {
-    "id": "134",
     "name": "Blackberry",
     "fodmap": "high",
     "category": "Fruit",
@@ -1534,7 +1487,6 @@
     }
   },
   {
-    "id": "135",
     "name": "Blueberry",
     "fodmap": "medium",
     "qty": "50g",
@@ -1547,7 +1499,6 @@
     }
   },
   {
-    "id": "136",
     "name": "Wheat bran, pellets",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -1559,7 +1510,6 @@
     }
   },
   {
-    "id": "137",
     "name": "Brazil Nuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -1572,7 +1522,6 @@
     }
   },
   {
-    "id": "138",
     "name": "Brie cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -1584,11 +1533,9 @@
     }
   },
   {
-    "id": "139",
-    "name": "Broccoli",
+    "name": "Broccoli, heads only",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "qty": "1/2 cup",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -1597,7 +1544,30 @@
     }
   },
   {
-    "id": "140",
+    "name": "Broccoli, stalks only",
+    "fodmap": "medium",
+    "category": "Vegetables and legumes",
+    "qty": "3 tbsp/50g",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "name": "Broccoli, tenderstem",
+    "fodmap": "medium",
+    "category": "Vegetables and legumes",
+    "qty": "3 tbsp/45g",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Buckwheat, flour",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -1609,7 +1579,6 @@
     }
   },
   {
-    "id": "141",
     "name": "Butter",
     "fodmap": "low",
     "category": "Dairy",
@@ -1621,7 +1590,6 @@
     }
   },
   {
-    "id": "142",
     "name": "Buttermilk",
     "fodmap": "high",
     "category": "Dairy",
@@ -1633,7 +1601,6 @@
     }
   },
   {
-    "id": "143",
     "name": "Cabbage, common",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -1645,9 +1612,9 @@
     }
   },
   {
-    "id": "144",
     "name": "Cabbage, savoy",
-    "fodmap": "high",
+    "fodmap": "medium",
+    "qty": "3 tbsp/55g",
     "category": "Vegetables and legumes",
     "details": {
       "oligos": 2,
@@ -1657,7 +1624,6 @@
     }
   },
   {
-    "id": "145",
     "name": "Camembert cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -1669,7 +1635,6 @@
     }
   },
   {
-    "id": "146",
     "name": "Cantaloupe",
     "fodmap": "low",
     "category": "Fruit",
@@ -1681,7 +1646,6 @@
     }
   },
   {
-    "id": "147",
     "name": "Carrots",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -1693,7 +1657,6 @@
     }
   },
   {
-    "id": "148",
     "name": "Cashews",
     "fodmap": "high",
     "category": "Nuts and Seeds",
@@ -1705,7 +1668,6 @@
     }
   },
   {
-    "id": "149",
     "name": "Cauliflower",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -1717,11 +1679,10 @@
     }
   },
   {
-    "id": "150",
     "name": "Celery",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Vegetables and legumes",
-    "qty": "5cm",
+    "qty": "1/3 stick/15g",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -1730,7 +1691,6 @@
     }
   },
   {
-    "id": "151",
     "name": "Cheddar cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -1742,7 +1702,6 @@
     }
   },
   {
-    "id": "152",
     "name": "Chestnuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -1755,7 +1714,6 @@
     }
   },
   {
-    "id": "153",
     "name": "Chia seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -1767,7 +1725,6 @@
     }
   },
   {
-    "id": "154",
     "name": "Chickpeas, canned",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -1780,7 +1737,6 @@
     }
   },
   {
-    "id": "155",
     "name": "Chicken",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -1792,7 +1748,6 @@
     }
   },
   {
-    "id": "156",
     "name": "Chips, potato crisps (plain)",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -1804,13 +1759,11 @@
     }
   },
   {
-    "id": "157",
     "name": "Chorizo",
     "fodmap": "high",
     "category": "Meat & Substitutes"
   },
   {
-    "id": "158",
     "name": "Chutney",
     "fodmap": "low",
     "category": "Condiments",
@@ -1823,7 +1776,6 @@
     }
   },
   {
-    "id": "159",
     "name": "Clementine",
     "fodmap": "low",
     "category": "Fruit",
@@ -1835,7 +1787,6 @@
     }
   },
   {
-    "id": "160",
     "name": "Coconut (fresh or dried)",
     "fodmap": "medium",
     "category": "Fruit",
@@ -1848,9 +1799,9 @@
     }
   },
   {
-    "id": "161",
     "name": "Coconut milk, canned",
     "fodmap": "low",
+    "qty": "125ml",
     "category": "Milk",
     "details": {
       "oligos": 0,
@@ -1860,26 +1811,17 @@
     }
   },
   {
-    "id": "162",
     "name": "Coconut water",
     "fodmap": "medium",
     "category": "Drinks",
-    "qty": "100ml",
-    "details": {
-      "oligos": 1,
-      "fructose": 0,
-      "polyols": 2,
-      "lactose": 0
-    }
+    "qty": "100ml"
   },
   {
-    "id": "163",
     "name": "Coffee, black",
     "fodmap": "low",
     "category": "Drinks"
   },
   {
-    "id": "164",
     "name": "Colby cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -1891,11 +1833,10 @@
     }
   },
   {
-    "id": "165",
-    "name": "Corn / Sweet corn",
-    "fodmap": "low",
+    "name": "Corn on cob",
+    "fodmap": "medium",
     "category": "Vegetables and legumes",
-    "qty": "1/2 cob",
+    "qty": "1/2 cob/40g",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -1904,7 +1845,18 @@
     }
   },
   {
-    "id": "166",
+    "name": "Corn / Sweetcorn",
+    "fodmap": "medium",
+    "category": "Vegetables and legumes",
+    "qty": "1 tbsp/15g",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Cornflour",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -1916,7 +1868,6 @@
     }
   },
   {
-    "id": "167",
     "name": "Cottage cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -1928,7 +1879,6 @@
     }
   },
   {
-    "id": "169",
     "name": "Cous cous, wheat",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -1940,7 +1890,6 @@
     }
   },
   {
-    "id": "170",
     "name": "Cow milk",
     "fodmap": "high",
     "category": "Milk",
@@ -1952,7 +1901,6 @@
     }
   },
   {
-    "id": "171",
     "name": "Cranberry",
     "fodmap": "low",
     "category": "Fruit",
@@ -1964,7 +1912,6 @@
     }
   },
   {
-    "id": "172",
     "name": "Cream, regular fat",
     "fodmap": "high",
     "category": "Dairy",
@@ -1976,7 +1923,6 @@
     }
   },
   {
-    "id": "173",
     "name": "Cream cheese",
     "fodmap": "high",
     "category": "Cheese",
@@ -1988,7 +1934,6 @@
     }
   },
   {
-    "id": "174",
     "name": "Cucumber",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2000,7 +1945,6 @@
     }
   },
   {
-    "id": "175",
     "name": "Custard",
     "fodmap": "high",
     "category": "Dairy",
@@ -2012,7 +1956,6 @@
     }
   },
   {
-    "id": "176",
     "name": "Dark chocolate",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -2024,7 +1967,6 @@
     }
   },
   {
-    "id": "177",
     "name": "Dragon Fruit",
     "fodmap": "low",
     "category": "Fruit",
@@ -2036,7 +1978,6 @@
     }
   },
   {
-    "id": "178",
     "name": "Drinking chocolate powder (any % cocoa)",
     "fodmap": "low",
     "category": "Drinks",
@@ -2048,7 +1989,6 @@
     }
   },
   {
-    "id": "179",
     "name": "Durian",
     "fodmap": "low",
     "category": "Fruit",
@@ -2060,7 +2000,6 @@
     }
   },
   {
-    "id": "180",
     "name": "Eggplant/Aubergine",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2072,7 +2011,6 @@
     }
   },
   {
-    "id": "181",
     "name": "Fennel tea",
     "fodmap": "high",
     "category": "Drinks",
@@ -2084,7 +2022,6 @@
     }
   },
   {
-    "id": "182",
     "name": "Feta cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -2096,7 +2033,6 @@
     }
   },
   {
-    "id": "183",
     "name": "Garlic",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -2108,7 +2044,30 @@
     }
   },
   {
-    "id": "184",
+    "name": "Garlic, pickled",
+    "fodmap": "medium",
+    "qty": "1 clove",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 2,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
+    "name": "Kimchi",
+    "fodmap": "medium",
+    "qty": "50g",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 2,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Garlic infused oil",
     "fodmap": "low",
     "category": "Condiments",
@@ -2120,13 +2079,11 @@
     }
   },
   {
-    "id": "185",
     "name": "Glucose",
     "fodmap": "low",
     "category": "Sweeteners"
   },
   {
-    "id": "186",
     "name": "Gluten free wheat products (e.g. breads, cereals, pasta) made without high fodmap ingredients like honey or garlic",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -2138,7 +2095,6 @@
     }
   },
   {
-    "id": "187",
     "name": "Gnocchi, wheat",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -2150,7 +2106,11 @@
     }
   },
   {
-    "id": "188",
+    "name": "Freekeh",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
     "name": "Goat cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -2162,7 +2122,6 @@
     }
   },
   {
-    "id": "189",
     "name": "Goat milk",
     "fodmap": "high",
     "category": "Milk",
@@ -2174,23 +2133,21 @@
     }
   },
   {
-    "id": "190",
     "name": "Golden syrup / light tracle",
     "fodmap": "low",
     "category": "Condiments",
     "qty": "1/2 tbsp"
   },
   {
-    "id": "191",
     "name": "Granola",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta"
   },
   {
-    "id": "192",
     "name": "Grapefruit",
-    "fodmap": "high",
+    "fodmap": "medium",
     "category": "Fruit",
+    "qty": "100g",
     "details": {
       "oligos": 2,
       "fructose": 0,
@@ -2199,7 +2156,6 @@
     }
   },
   {
-    "id": "193",
     "name": "Grapes (Red, Green and Black)",
     "fodmap": "low",
     "category": "Fruit",
@@ -2211,14 +2167,12 @@
     }
   },
   {
-    "id": "194",
     "name": "Greek yogurt",
     "fodmap": "low",
     "category": "Dairy",
     "qty": "small amounts"
   },
   {
-    "id": "195",
     "name": "Goat yogurt",
     "fodmap": "low",
     "category": "Dairy",
@@ -2230,7 +2184,6 @@
     }
   },
   {
-    "id": "196",
     "name": "Lactose free yogurt",
     "fodmap": "low",
     "category": "Dairy",
@@ -2242,7 +2195,6 @@
     }
   },
   {
-    "id": "197",
     "name": "Yogurt",
     "fodmap": "high",
     "category": "Dairy",
@@ -2254,7 +2206,6 @@
     }
   },
   {
-    "id": "198",
     "name": "Green Beans",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2266,7 +2217,6 @@
     }
   },
   {
-    "id": "199",
     "name": "Green Pepper",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2278,7 +2228,6 @@
     }
   },
   {
-    "id": "200",
     "name": "Havarti cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -2290,7 +2239,6 @@
     }
   },
   {
-    "id": "201",
     "name": "Hazelnuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -2303,7 +2251,6 @@
     }
   },
   {
-    "id": "202",
     "name": "Hemp milk",
     "fodmap": "low",
     "category": "Milk",
@@ -2315,7 +2262,6 @@
     }
   },
   {
-    "id": "203",
     "name": "Oats",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -2327,7 +2273,6 @@
     }
   },
   {
-    "id": "204",
     "name": "Herbal tea (strong)",
     "fodmap": "high",
     "category": "Drinks",
@@ -2339,7 +2284,6 @@
     }
   },
   {
-    "id": "205",
     "name": "Herbal tea (weak)",
     "fodmap": "low",
     "category": "Drinks",
@@ -2351,7 +2295,6 @@
     }
   },
   {
-    "id": "206",
     "name": "High Fructose Corn Syrup (HFCS)",
     "fodmap": "high",
     "category": "Sweeteners",
@@ -2363,7 +2306,6 @@
     }
   },
   {
-    "id": "207",
     "name": "Hommus dip",
     "fodmap": "high",
     "category": "Condiments",
@@ -2375,7 +2317,6 @@
     }
   },
   {
-    "id": "208",
     "name": "Honey",
     "fodmap": "high",
     "category": "Sweeteners",
@@ -2387,7 +2328,6 @@
     }
   },
   {
-    "id": "209",
     "name": "Ice cream",
     "fodmap": "high",
     "category": "Dairy",
@@ -2399,7 +2339,6 @@
     }
   },
   {
-    "id": "210",
     "name": "Inulin",
     "fodmap": "high",
     "category": "Sweeteners",
@@ -2411,13 +2350,11 @@
     }
   },
   {
-    "id": "211",
     "name": "Isomalt",
     "fodmap": "high",
     "category": "Sweeteners"
   },
   {
-    "id": "212",
     "name": "Jam (mixed berries)",
     "fodmap": "high",
     "category": "Condiments",
@@ -2429,7 +2366,6 @@
     }
   },
   {
-    "id": "213",
     "name": "Kale",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2441,7 +2377,6 @@
     }
   },
   {
-    "id": "214",
     "name": "Kiwifruit",
     "fodmap": "low",
     "category": "Fruit",
@@ -2453,7 +2388,6 @@
     }
   },
   {
-    "id": "215",
     "name": "Kumquat",
     "fodmap": "low",
     "category": "Fruit",
@@ -2465,7 +2399,6 @@
     }
   },
   {
-    "id": "216",
     "name": "Lactose free milk",
     "fodmap": "low",
     "category": "Milk",
@@ -2477,7 +2410,6 @@
     }
   },
   {
-    "id": "217",
     "name": "Lamb",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -2489,7 +2421,6 @@
     }
   },
   {
-    "id": "218",
     "name": "Lemon",
     "fodmap": "low",
     "category": "Fruit",
@@ -2501,7 +2432,6 @@
     }
   },
   {
-    "id": "219",
     "name": "Lettuce (e.g. rocket, butter, iceberg, radicchio, red coral, romaine)",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2513,7 +2443,6 @@
     }
   },
   {
-    "id": "220",
     "name": "Macadamia nuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -2526,7 +2455,6 @@
     }
   },
   {
-    "id": "221",
     "name": "Maltitol",
     "fodmap": "high",
     "category": "Sweeteners",
@@ -2538,7 +2466,6 @@
     }
   },
   {
-    "id": "223",
     "name": "Mango",
     "fodmap": "high",
     "category": "Fruit",
@@ -2550,7 +2477,6 @@
     }
   },
   {
-    "id": "224",
     "name": "Mango juice",
     "fodmap": "high",
     "category": "Drinks",
@@ -2562,7 +2488,6 @@
     }
   },
   {
-    "id": "225",
     "name": "Mannitol",
     "fodmap": "high",
     "category": "Sweeteners",
@@ -2574,7 +2499,6 @@
     }
   },
   {
-    "id": "226",
     "name": "Mayonnaise",
     "fodmap": "low",
     "category": "Condiments",
@@ -2586,8 +2510,7 @@
     }
   },
   {
-    "id": "227",
-    "name": "Melons e.g. Honeydew, galia",
+    "name": "Melons e.g. Honeydew, galia, canteloupe",
     "fodmap": "low",
     "category": "Fruit",
     "details": {
@@ -2598,7 +2521,6 @@
     }
   },
   {
-    "id": "228",
     "name": "Milk chocolate",
     "fodmap": "low",
     "category": "Dairy",
@@ -2611,7 +2533,6 @@
     }
   },
   {
-    "id": "229",
     "name": "Mozzarella cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -2623,7 +2544,6 @@
     }
   },
   {
-    "id": "230",
     "name": "Muesli",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -2635,14 +2555,12 @@
     }
   },
   {
-    "id": "231",
     "name": "Muffins",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta"
   },
   {
-    "id": "232",
-    "name": "Mushrooms",
+    "name": "Mushrooms, button, enoki, shiitake, portobello",
     "fodmap": "high",
     "category": "Vegetables and legumes",
     "details": {
@@ -2653,7 +2571,18 @@
     }
   },
   {
-    "id": "233",
+    "name": "Mushrooms, porcini",
+    "fodmap": "medium",
+    "qty": "2 tbsp/15g",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 1,
+      "fructose": 0,
+      "polyols": 2,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Mustard",
     "fodmap": "low",
     "category": "Condiments",
@@ -2665,11 +2594,10 @@
     }
   },
   {
-    "id": "234",
     "name": "Oat milk",
     "fodmap": "low",
     "category": "Milk",
-    "qty": "30ml",
+    "qty": "40ml",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -2678,7 +2606,18 @@
     }
   },
   {
-    "id": "235",
+    "name": "Quinoa milk",
+    "fodmap": "low",
+    "category": "Milk",
+    "qty": "250ml",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Oatmeal",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -2691,7 +2630,6 @@
     }
   },
   {
-    "id": "236",
     "name": "Onions",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -2703,7 +2641,18 @@
     }
   },
   {
-    "id": "237",
+    "name": "Onions, pickled",
+    "fodmap": "medium",
+    "qty": "2 onions/45g",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 2,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Orange",
     "fodmap": "low",
     "category": "Fruit",
@@ -2715,7 +2664,6 @@
     }
   },
   {
-    "id": "238",
     "name": "Orange juice",
     "fodmap": "medium",
     "category": "Drinks",
@@ -2728,7 +2676,6 @@
     }
   },
   {
-    "id": "239",
     "name": "Papaya",
     "fodmap": "low",
     "category": "Fruit",
@@ -2740,7 +2687,6 @@
     }
   },
   {
-    "id": "240",
     "name": "Parmesan cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -2752,7 +2698,6 @@
     }
   },
   {
-    "id": "241",
     "name": "Parsnip",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2764,7 +2709,6 @@
     }
   },
   {
-    "id": "242",
     "name": "Passion Fruit",
     "fodmap": "low",
     "category": "Fruit",
@@ -2776,7 +2720,6 @@
     }
   },
   {
-    "id": "243",
     "name": "Pasta sauce (cream based)",
     "fodmap": "high",
     "category": "Condiments",
@@ -2788,7 +2731,6 @@
     }
   },
   {
-    "id": "244",
     "name": "Peaches",
     "fodmap": "high",
     "category": "Fruit",
@@ -2800,7 +2742,6 @@
     }
   },
   {
-    "id": "245",
     "name": "Peanuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -2813,7 +2754,6 @@
     }
   },
   {
-    "id": "246",
     "name": "Pear juice",
     "fodmap": "high",
     "category": "Drinks",
@@ -2825,7 +2765,6 @@
     }
   },
   {
-    "id": "247",
     "name": "Pears",
     "fodmap": "high",
     "category": "Fruit",
@@ -2837,9 +2776,9 @@
     }
   },
   {
-    "id": "248",
-    "name": "Peas",
-    "fodmap": "high",
+    "name": "Peas, frozen",
+    "fodmap": "medium",
+    "qty": "1 tbsp/20g",
     "category": "Vegetables and legumes",
     "details": {
       "oligos": 2,
@@ -2849,7 +2788,18 @@
     }
   },
   {
-    "id": "249",
+    "name": "Peas, canned",
+    "fodmap": "medium",
+    "qty": "2 tbsp/55g",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 2,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Pecans",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -2862,7 +2812,6 @@
     }
   },
   {
-    "id": "250",
     "name": "Pecorino cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -2874,7 +2823,6 @@
     }
   },
   {
-    "id": "251",
     "name": "Peppermint tea",
     "fodmap": "low",
     "category": "Drinks",
@@ -2886,7 +2834,6 @@
     }
   },
   {
-    "id": "252",
     "name": "Pineapple, dried",
     "fodmap": "medium",
     "qty": "25g",
@@ -2899,7 +2846,6 @@
     }
   },
   {
-    "id": "253",
     "name": "Pistachio",
     "fodmap": "high",
     "category": "Nuts and Seeds",
@@ -2911,7 +2857,6 @@
     }
   },
   {
-    "id": "254",
     "name": "Plums",
     "fodmap": "high",
     "category": "Fruit",
@@ -2923,7 +2868,6 @@
     }
   },
   {
-    "id": "255",
     "name": "Popcorn",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -2935,7 +2879,6 @@
     }
   },
   {
-    "id": "256",
     "name": "Poppy seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -2948,7 +2891,6 @@
     }
   },
   {
-    "id": "257",
     "name": "Pork",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -2960,7 +2902,6 @@
     }
   },
   {
-    "id": "258",
     "name": "Potato",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2972,7 +2913,6 @@
     }
   },
   {
-    "id": "259",
     "name": "Pretzels",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -2984,7 +2924,6 @@
     }
   },
   {
-    "id": "260",
     "name": "Pumpkin",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -2996,7 +2935,6 @@
     }
   },
   {
-    "id": "261",
     "name": "Pumpkin seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -3008,7 +2946,6 @@
     }
   },
   {
-    "id": "262",
     "name": "Quinoa",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3020,7 +2957,6 @@
     }
   },
   {
-    "id": "263",
     "name": "Quorn mince",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3032,10 +2968,15 @@
     }
   },
   {
-    "id": "264",
-    "name": "Raisins",
+    "name": "Soya mince, textured soya protein",
     "fodmap": "high",
+    "category": "Meat & Substitutes"
+  },
+  {
+    "name": "Raisins",
+    "fodmap": "medium",
     "category": "Fruit",
+    "qty": "1 tbsp/12g",
     "details": {
       "oligos": 2,
       "fructose": 0,
@@ -3044,7 +2985,6 @@
     }
   },
   {
-    "id": "265",
     "name": "Raspberry",
     "fodmap": "low",
     "category": "Fruit",
@@ -3056,7 +2996,6 @@
     }
   },
   {
-    "id": "266",
     "name": "Red Peppers",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3068,7 +3007,6 @@
     }
   },
   {
-    "id": "267",
     "name": "Relish",
     "fodmap": "high",
     "category": "Condiments",
@@ -3080,7 +3018,6 @@
     }
   },
   {
-    "id": "268",
     "name": "Rhubarb",
     "fodmap": "low",
     "category": "Fruit",
@@ -3092,7 +3029,6 @@
     }
   },
   {
-    "id": "269",
     "name": "Brown rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3104,7 +3040,6 @@
     }
   },
   {
-    "id": "270",
     "name": "White rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3116,7 +3051,6 @@
     }
   },
   {
-    "id": "271",
     "name": "Basmati rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3128,7 +3062,6 @@
     }
   },
   {
-    "id": "272",
     "name": "Rice milk",
     "fodmap": "low",
     "category": "Milk",
@@ -3141,7 +3074,6 @@
     }
   },
   {
-    "id": "273",
     "name": "Ricotta cheese",
     "fodmap": "high",
     "category": "Cheese",
@@ -3153,7 +3085,6 @@
     }
   },
   {
-    "id": "274",
     "name": "Rye",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3165,7 +3096,6 @@
     }
   },
   {
-    "id": "275",
     "name": "Saccharine",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -3177,7 +3107,6 @@
     }
   },
   {
-    "id": "276",
     "name": "Sausages",
     "fodmap": "high",
     "category": "Meat & Substitutes",
@@ -3189,7 +3118,6 @@
     }
   },
   {
-    "id": "277",
     "name": "Savory biscuits",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3201,7 +3129,6 @@
     }
   },
   {
-    "id": "278",
     "name": "Scallions / Spring onions / Green onions (green part)",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3213,7 +3140,6 @@
     }
   },
   {
-    "id": "279",
     "name": "Scallions / Spring onions / Green onions (white part)",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -3225,13 +3151,16 @@
     }
   },
   {
-    "id": "280",
     "name": "Semolina",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta"
   },
   {
-    "id": "281",
+    "name": "Bulgur",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
     "name": "Sesame seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -3244,7 +3173,6 @@
     }
   },
   {
-    "id": "282",
     "name": "Sheep's milk",
     "fodmap": "high",
     "category": "Milk",
@@ -3256,19 +3184,21 @@
     }
   },
   {
-    "id": "283",
+    "name": "Soda bread",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
     "name": "Sodas with HFCS",
     "fodmap": "high",
     "category": "Drinks"
   },
   {
-    "id": "284",
     "name": "Sorbitol",
     "fodmap": "high",
     "category": "Sweeteners"
   },
   {
-    "id": "285",
     "name": "Sour cream",
     "fodmap": "high",
     "category": "Dairy",
@@ -3280,7 +3210,6 @@
     }
   },
   {
-    "id": "286",
     "name": "Soy milk made with soy beans",
     "fodmap": "high",
     "category": "Milk",
@@ -3292,7 +3221,6 @@
     }
   },
   {
-    "id": "287",
     "name": "Soy sauce",
     "fodmap": "low",
     "category": "Condiments",
@@ -3304,10 +3232,10 @@
     }
   },
   {
-    "id": "288",
-    "name": "Soya milk made with soy protein",
+    "name": "Soya milk",
     "fodmap": "low",
     "category": "Milk",
+    "qty": "50ml",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -3316,7 +3244,6 @@
     }
   },
   {
-    "id": "289",
     "name": "Spelt flakes",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3328,7 +3255,6 @@
     }
   },
   {
-    "id": "290",
     "name": "Spelt bread (non-sourdough)",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3340,7 +3266,6 @@
     }
   },
   {
-    "id": "291",
     "name": "Spelt bread (sourdough)",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3352,7 +3277,6 @@
     }
   },
   {
-    "id": "292",
     "name": "Spelt pasta",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3365,11 +3289,10 @@
     }
   },
   {
-    "id": "293",
     "name": "Butternut squash",
-    "fodmap": "low",
+    "fodmap": "medium",
     "category": "Vegetables and legumes",
-    "qty": "1/4 cup",
+    "qty": "3 tbsp/60g",
     "details": {
       "oligos": 0,
       "fructose": 0,
@@ -3378,8 +3301,7 @@
     }
   },
   {
-    "id": "294",
-    "name": "Star Fruit",
+    "name": "Starfruit",
     "fodmap": "low",
     "category": "Fruit",
     "details": {
@@ -3390,7 +3312,6 @@
     }
   },
   {
-    "id": "295",
     "name": "Stevia",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -3402,7 +3323,6 @@
     }
   },
   {
-    "id": "296",
     "name": "Strawberry",
     "fodmap": "low",
     "category": "Fruit",
@@ -3414,7 +3334,6 @@
     }
   },
   {
-    "id": "297",
     "name": "Strawberry jam / jelly (without HFCS)",
     "fodmap": "low",
     "category": "Condiments",
@@ -3426,7 +3345,6 @@
     }
   },
   {
-    "id": "298",
     "name": "Sucralose",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -3438,7 +3356,6 @@
     }
   },
   {
-    "id": "299",
     "name": "Sugar/sucrose",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -3450,7 +3367,6 @@
     }
   },
   {
-    "id": "300",
     "name": "Sultanas",
     "fodmap": "high",
     "category": "Fruit",
@@ -3462,7 +3378,6 @@
     }
   },
   {
-    "id": "301",
     "name": "Sunflower seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -3475,9 +3390,9 @@
     }
   },
   {
-    "id": "302",
     "name": "Sweet Potato",
-    "fodmap": "low",
+    "fodmap": "medium",
+    "qty": "3 tbsp/75g",
     "category": "Vegetables and legumes",
     "details": {
       "oligos": 0,
@@ -3487,7 +3402,6 @@
     }
   },
   {
-    "id": "303",
     "name": "Swiss cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -3499,7 +3413,6 @@
     }
   },
   {
-    "id": "304",
     "name": "Tamarind",
     "fodmap": "medium",
     "qty": "10g",
@@ -3512,7 +3425,6 @@
     }
   },
   {
-    "id": "305",
     "name": "Tangelo",
     "fodmap": "low",
     "category": "Fruit",
@@ -3524,7 +3436,6 @@
     }
   },
   {
-    "id": "306",
     "name": "Tomato sauce",
     "fodmap": "low",
     "category": "Condiments",
@@ -3536,7 +3447,6 @@
     }
   },
   {
-    "id": "307",
     "name": "Tomatoes",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3548,7 +3458,18 @@
     }
   },
   {
-    "id": "308",
+    "name": "Sundried tomato",
+    "fodmap": "medium",
+    "qty": "3 pieces/8g",
+    "category": "Vegetables and legumes",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Chips, tortilla",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3560,7 +3481,6 @@
     }
   },
   {
-    "id": "309",
     "name": "Turnip",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3572,7 +3492,6 @@
     }
   },
   {
-    "id": "310",
     "name": "Tzatziki dip",
     "fodmap": "high",
     "category": "Condiments",
@@ -3584,7 +3503,6 @@
     }
   },
   {
-    "id": "311",
     "name": "Walnuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
@@ -3597,7 +3515,6 @@
     }
   },
   {
-    "id": "312",
     "name": "Water",
     "fodmap": "low",
     "category": "Drinks",
@@ -3609,7 +3526,6 @@
     }
   },
   {
-    "id": "313",
     "name": "Watermelon",
     "fodmap": "high",
     "category": "Fruit",
@@ -3621,7 +3537,6 @@
     }
   },
   {
-    "id": "314",
     "name": "Wheat foods e.g. Bread, cereal, pasta",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3633,7 +3548,6 @@
     }
   },
   {
-    "id": "315",
     "name": "White chocolate",
     "fodmap": "low",
     "category": "Dairy",
@@ -3646,7 +3560,6 @@
     }
   },
   {
-    "id": "316",
     "name": "Wine",
     "fodmap": "low",
     "category": "Drinks",
@@ -3659,13 +3572,11 @@
     }
   },
   {
-    "id": "317",
     "name": "Xylitol",
     "fodmap": "high",
     "category": "Sweeteners"
   },
   {
-    "id": "318",
     "name": "Zucchini / courgette",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3677,7 +3588,6 @@
     }
   },
   {
-    "id": "319",
     "name": "Tahini",
     "fodmap": "high",
     "category": "Condiments",
@@ -3689,7 +3599,6 @@
     }
   },
   {
-    "id": "320",
     "name": "Spinach",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3701,7 +3610,6 @@
     }
   },
   {
-    "id": "321",
     "name": "Shrimp",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3713,7 +3621,6 @@
     }
   },
   {
-    "id": "322",
     "name": "Prawns",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3725,7 +3632,6 @@
     }
   },
   {
-    "id": "323",
     "name": "Oysters",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3737,7 +3643,6 @@
     }
   },
   {
-    "id": "324",
     "name": "Mussels",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3749,7 +3654,6 @@
     }
   },
   {
-    "id": "325",
     "name": "Lobster",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3761,7 +3665,6 @@
     }
   },
   {
-    "id": "326",
     "name": "Crab",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3773,7 +3676,6 @@
     }
   },
   {
-    "id": "327",
     "name": "Tuna",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3785,7 +3687,6 @@
     }
   },
   {
-    "id": "328",
     "name": "Trout",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3797,7 +3698,6 @@
     }
   },
   {
-    "id": "329",
     "name": "Salmon",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3809,7 +3709,6 @@
     }
   },
   {
-    "id": "330",
     "name": "Cod",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3821,7 +3720,6 @@
     }
   },
   {
-    "id": "331",
     "name": "Haddock",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -3833,7 +3731,6 @@
     }
   },
   {
-    "id": "332",
     "name": "Olive Oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -3845,7 +3742,6 @@
     }
   },
   {
-    "id": "333",
     "name": "Goji Berries",
     "fodmap": "high",
     "category": "Fruit",
@@ -3857,7 +3753,6 @@
     }
   },
   {
-    "id": "334",
     "name": "Rice Crackers",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3869,7 +3764,17 @@
     }
   },
   {
-    "id": "335",
+    "name": "Ackee, canned",
+    "fodmap": "low",
+    "category": "Fruit",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Rice Cakes",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3881,7 +3786,6 @@
     }
   },
   {
-    "id": "336",
     "name": "Edamame",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3893,7 +3797,6 @@
     }
   },
   {
-    "id": "337",
     "name": "Acorn Squash",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3905,7 +3808,6 @@
     }
   },
   {
-    "id": "338",
     "name": "Balsamic Vinegar",
     "fodmap": "low",
     "category": "Condiments",
@@ -3918,7 +3820,6 @@
     }
   },
   {
-    "id": "339",
     "name": "Apple Cider Vinegar",
     "fodmap": "low",
     "category": "Condiments",
@@ -3931,7 +3832,6 @@
     }
   },
   {
-    "id": "340",
     "name": "Split Peas",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -3943,7 +3843,6 @@
     }
   },
   {
-    "id": "341",
     "name": "Blue Cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -3955,7 +3854,6 @@
     }
   },
   {
-    "id": "342",
     "name": "Tapioca",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -3967,7 +3865,6 @@
     }
   },
   {
-    "id": "343",
     "name": "Sesame Oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -3979,7 +3876,6 @@
     }
   },
   {
-    "id": "344",
     "name": "Spaghetti squash",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -3992,9 +3888,9 @@
     }
   },
   {
-    "id": "345",
     "name": "Okra",
-    "fodmap": "low",
+    "fodmap": "medium",
+    "qty": "7 pods/75g",
     "category": "Vegetables and legumes",
     "details": {
       "oligos": 0,
@@ -4004,7 +3900,6 @@
     }
   },
   {
-    "id": "346",
     "name": "Capers",
     "fodmap": "low",
     "category": "Condiments",
@@ -4016,7 +3911,6 @@
     }
   },
   {
-    "id": "347",
     "name": "Gin",
     "fodmap": "low",
     "category": "Drinks",
@@ -4028,7 +3922,6 @@
     }
   },
   {
-    "id": "348",
     "name": "Jasmine rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4040,7 +3933,6 @@
     }
   },
   {
-    "id": "349",
     "name": "Kombucha",
     "fodmap": "high",
     "category": "Drinks",
@@ -4052,13 +3944,11 @@
     }
   },
   {
-    "id": "350",
     "name": "Molasses",
     "fodmap": "high",
     "category": "Condiments"
   },
   {
-    "id": "351",
     "name": "Sorghum",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4071,7 +3961,6 @@
     }
   },
   {
-    "id": "352",
     "name": "Almond flour",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4084,7 +3973,6 @@
     }
   },
   {
-    "id": "353",
     "name": "Coconut flour",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4096,7 +3984,21 @@
     }
   },
   {
-    "id": "354",
+    "name": "Lupin flour",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "name": "Soya flour",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "name": "Red lentil pasta",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
     "name": "Cumin",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4108,7 +4010,6 @@
     }
   },
   {
-    "id": "355",
     "name": "Endive",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4120,7 +4021,6 @@
     }
   },
   {
-    "id": "356",
     "name": "Garlic powder",
     "fodmap": "high",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4132,7 +4032,6 @@
     }
   },
   {
-    "id": "357",
     "name": "Garlic salt",
     "fodmap": "high",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4144,7 +4043,6 @@
     }
   },
   {
-    "id": "358",
     "name": "Millet flour",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4157,7 +4055,6 @@
     }
   },
   {
-    "id": "359",
     "name": "Halloumi / Hellim",
     "fodmap": "low",
     "category": "Cheese",
@@ -4170,7 +4067,6 @@
     }
   },
   {
-    "id": "360",
     "name": "Rice noodles",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4182,7 +4078,17 @@
     }
   },
   {
-    "id": "361",
+    "name": "Kelp noodles",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {
+      "oligos": 0,
+      "fructose": 0,
+      "polyols": 0,
+      "lactose": 0
+    }
+  },
+  {
     "name": "Watercress",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4194,7 +4100,6 @@
     }
   },
   {
-    "id": "362",
     "name": "Celeriac",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4206,7 +4111,6 @@
     }
   },
   {
-    "id": "363",
     "name": "Salt",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4218,7 +4122,6 @@
     }
   },
   {
-    "id": "364",
     "name": "Pepper, black",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4230,7 +4133,6 @@
     }
   },
   {
-    "id": "365",
     "name": "Jicama",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4242,7 +4144,6 @@
     }
   },
   {
-    "id": "366",
     "name": "Paprika",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4254,7 +4155,6 @@
     }
   },
   {
-    "id": "367",
     "name": "Asiago cheese",
     "fodmap": "low",
     "category": "Cheese",
@@ -4266,7 +4166,6 @@
     }
   },
   {
-    "id": "368",
     "name": "Miso paste",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4278,7 +4177,6 @@
     }
   },
   {
-    "id": "369",
     "name": "Tomato paste",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4290,7 +4188,6 @@
     }
   },
   {
-    "id": "370",
     "name": "Baby spinach",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4302,7 +4199,6 @@
     }
   },
   {
-    "id": "371",
     "name": "Apricots, dried",
     "fodmap": "high",
     "category": "Fruit",
@@ -4314,7 +4210,6 @@
     }
   },
   {
-    "id": "372",
     "name": "Guava, ripe",
     "fodmap": "low",
     "category": "Fruit",
@@ -4326,7 +4221,6 @@
     }
   },
   {
-    "id": "373",
     "name": "Guava, unripe",
     "fodmap": "high",
     "category": "Fruit",
@@ -4338,7 +4232,6 @@
     }
   },
   {
-    "id": "374",
     "name": "Banana, dried",
     "fodmap": "medium",
     "category": "Fruit",
@@ -4351,7 +4244,6 @@
     }
   },
   {
-    "id": "375",
     "name": "Yucca root",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -4363,7 +4255,6 @@
     }
   },
   {
-    "id": "376",
     "name": "Feijoa",
     "fodmap": "high",
     "category": "Fruit",
@@ -4375,7 +4266,6 @@
     }
   },
   {
-    "id": "377",
     "name": "Chips, corn (plain)",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4387,7 +4277,6 @@
     }
   },
   {
-    "id": "378",
     "name": "Nutritional Yeast",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4399,7 +4288,6 @@
     }
   },
   {
-    "id": "379",
     "name": "Tempeh",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4411,7 +4299,6 @@
     }
   },
   {
-    "id": "380",
     "name": "Snow peas",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4424,7 +4311,6 @@
     }
   },
   {
-    "id": "381",
     "name": "Capsicum",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4436,7 +4322,6 @@
     }
   },
   {
-    "id": "382",
     "name": "Collard greens",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4448,7 +4333,6 @@
     }
   },
   {
-    "id": "383",
     "name": "Lemonade",
     "fodmap": "low",
     "category": "Drinks",
@@ -4461,7 +4345,6 @@
     }
   },
   {
-    "id": "384",
     "name": "Nutmeg",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4473,7 +4356,6 @@
     }
   },
   {
-    "id": "385",
     "name": "Persimmon, Sharon fruit",
     "fodmap": "medium",
     "qty": "1/2",
@@ -4486,7 +4368,6 @@
     }
   },
   {
-    "id": "386",
     "name": "Tumeric",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4498,7 +4379,6 @@
     }
   },
   {
-    "id": "387",
     "name": "Wheat flour",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4510,7 +4390,6 @@
     }
   },
   {
-    "id": "388",
     "name": "Wild rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4522,7 +4401,6 @@
     }
   },
   {
-    "id": "389",
     "name": "Alfalfa sprouts",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4534,7 +4412,6 @@
     }
   },
   {
-    "id": "390",
     "name": "Amaranth flour",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4546,7 +4423,6 @@
     }
   },
   {
-    "id": "391",
     "name": "Amaranth, puffed grain",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4559,7 +4435,6 @@
     }
   },
   {
-    "id": "392",
     "name": "Cardamom",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4571,7 +4446,6 @@
     }
   },
   {
-    "id": "393",
     "name": "Carob powder",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -4583,7 +4457,6 @@
     }
   },
   {
-    "id": "394",
     "name": "Chicory leaves",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4595,7 +4468,11 @@
     }
   },
   {
-    "id": "395",
+    "name": "Chicory root",
+    "fodmap": "hign",
+    "category": "Vegetables and legumes"
+  },
+  {
     "name": "Garbanzo beans, canned",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4608,7 +4485,6 @@
     }
   },
   {
-    "id": "396",
     "name": "Gherkins in vinegar",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4620,7 +4496,6 @@
     }
   },
   {
-    "id": "397",
     "name": "Lychee",
     "fodmap": "medium",
     "qty": "40g",
@@ -4633,7 +4508,6 @@
     }
   },
   {
-    "id": "398",
     "name": "Palm sugar",
     "fodmap": "low",
     "category": "Sweeteners",
@@ -4645,7 +4519,6 @@
     }
   },
   {
-    "id": "399",
     "name": "Pesto sauce",
     "fodmap": "low",
     "category": "Condiments",
@@ -4658,7 +4531,6 @@
     }
   },
   {
-    "id": "400",
     "name": "Sunflower oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4670,7 +4542,6 @@
     }
   },
   {
-    "id": "401",
     "name": "Grits",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4682,7 +4553,6 @@
     }
   },
   {
-    "id": "402",
     "name": "Horseradish",
     "fodmap": "low",
     "category": "Condiments",
@@ -4694,7 +4564,6 @@
     }
   },
   {
-    "id": "403",
     "name": "Plantains",
     "fodmap": "low",
     "category": "Fruit",
@@ -4706,7 +4575,6 @@
     }
   },
   {
-    "id": "404",
     "name": "Ghee",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4718,7 +4586,6 @@
     }
   },
   {
-    "id": "405",
     "name": "Oatcake",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4730,7 +4597,6 @@
     }
   },
   {
-    "id": "406",
     "name": "Dried Cranberries",
     "fodmap": "medium",
     "category": "Fruit",
@@ -4743,10 +4609,10 @@
     }
   },
   {
-    "id": "407",
     "name": "Currants",
-    "fodmap": "high",
+    "fodmap": "medium",
     "category": "Fruit",
+    "qty": "12g/1tbsp",
     "details": {
       "oligos": 2,
       "fructose": 0,
@@ -4755,7 +4621,6 @@
     }
   },
   {
-    "id": "408",
     "name": "Vegemite",
     "fodmap": "low",
     "category": "Condiments",
@@ -4767,7 +4632,6 @@
     }
   },
   {
-    "id": "409",
     "name": "Marmite",
     "fodmap": "low",
     "category": "Condiments",
@@ -4779,7 +4643,6 @@
     }
   },
   {
-    "id": "410",
     "name": "Onion Powder",
     "fodmap": "high",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4791,7 +4654,6 @@
     }
   },
   {
-    "id": "411",
     "name": "Garlic Powder",
     "fodmap": "high",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4803,7 +4665,6 @@
     }
   },
   {
-    "id": "412",
     "name": "Rambutan",
     "fodmap": "low",
     "category": "Fruit",
@@ -4816,7 +4677,6 @@
     }
   },
   {
-    "id": "413",
     "name": "Soba noodles",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4828,7 +4688,6 @@
     }
   },
   {
-    "id": "414",
     "name": "Wasabi powder",
     "fodmap": "low",
     "category": "Condiments",
@@ -4840,7 +4699,6 @@
     }
   },
   {
-    "id": "415",
     "name": "Figs, fresh",
     "fodmap": "high",
     "category": "Fruit",
@@ -4852,7 +4710,6 @@
     }
   },
   {
-    "id": "416",
     "name": "Dandelion tea, weak",
     "fodmap": "low",
     "category": "Drinks",
@@ -4864,19 +4721,6 @@
     }
   },
   {
-    "id": "417",
-    "name": "Lentils, canned",
-    "fodmap": "low",
-    "category": "Vegetables and legumes",
-    "details": {
-      "oligos": 0,
-      "fructose": 0,
-      "polyols": 0,
-      "lactose": 0
-    }
-  },
-  {
-    "id": "418",
     "name": "Mung beans, sprouted",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4888,8 +4732,7 @@
     }
   },
   {
-    "id": "419",
-    "name": "Kidney beans, sprouted",
+    "name": "Kidney beans, dried, sprouted",
     "fodmap": "high",
     "category": "Vegetables and legumes",
     "details": {
@@ -4900,7 +4743,11 @@
     }
   },
   {
-    "id": "420",
+    "name": "Soya beans",
+    "fodmap": "high",
+    "category": "Vegetables and legumes"
+  },
+  {
     "name": "Black beans, canned",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -4912,8 +4759,7 @@
     }
   },
   {
-    "id": "421",
-    "name": "Bananas, unripe",
+    "name": "Bananas, unripe (firm, yellow with green tip)",
     "fodmap": "low",
     "category": "Fruit",
     "details": {
@@ -4924,7 +4770,6 @@
     }
   },
   {
-    "id": "422",
     "name": "Barley, sprouted",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4936,7 +4781,6 @@
     }
   },
   {
-    "id": "423",
     "name": "Barley, flour",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -4948,8 +4792,7 @@
     }
   },
   {
-    "id": "424",
-    "name": "Chickpeas, sprouted",
+    "name": "Chickpeas, dried, sprouted",
     "fodmap": "high",
     "category": "Vegetables and legumes",
     "details": {
@@ -4960,7 +4803,6 @@
     }
   },
   {
-    "id": "425",
     "name": "Cranberry, dried",
     "fodmap": "medium",
     "category": "Fruit",
@@ -4973,7 +4815,6 @@
     }
   },
   {
-    "id": "426",
     "name": "Cabbage, red",
     "fodmap": "low",
     "category": "Vegetables and legumes",
@@ -4985,7 +4826,6 @@
     }
   },
   {
-    "id": "427",
     "name": "Cacao powder",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -4997,7 +4837,6 @@
     }
   },
   {
-    "id": "428",
     "name": "Cranberry Juice",
     "fodmap": "medium",
     "category": "Drinks",
@@ -5010,7 +4849,6 @@
     }
   },
   {
-    "id": "429",
     "name": "Dill, fresh",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -5022,7 +4860,6 @@
     }
   },
   {
-    "id": "430",
     "name": "Avocado Oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -5034,7 +4871,6 @@
     }
   },
   {
-    "id": "431",
     "name": "Sardines, canned in oil",
     "fodmap": "low",
     "category": "Meat & Substitutes",
@@ -5046,9 +4882,9 @@
     }
   },
   {
-    "id": "432",
     "name": "Sugar snap peas",
-    "fodmap": "high",
+    "fodmap": "medium",
+    "qty": "7 pods/20g",
     "category": "Vegetables and legumes",
     "details": {
       "oligos": 0,
@@ -5058,7 +4894,6 @@
     }
   },
   {
-    "id": "433",
     "name": "Red onion",
     "fodmap": "high",
     "category": "Vegetables and legumes",
@@ -5070,7 +4905,6 @@
     }
   },
   {
-    "id": "434",
     "name": "Corn starch",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5082,7 +4916,6 @@
     }
   },
   {
-    "id": "435",
     "name": "Teff flour",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5094,7 +4927,6 @@
     }
   },
   {
-    "id": "436",
     "name": "Chili powder",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
@@ -5106,7 +4938,6 @@
     }
   },
   {
-    "id": "437",
     "name": "Pitta, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5118,7 +4949,6 @@
     }
   },
   {
-    "id": "438",
     "name": "Bagels, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5130,7 +4960,6 @@
     }
   },
   {
-    "id": "439",
     "name": "Ciabatta, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5142,7 +4971,6 @@
     }
   },
   {
-    "id": "440",
     "name": "Focaccia, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5154,7 +4982,6 @@
     }
   },
   {
-    "id": "440",
     "name": "Panini, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5166,7 +4993,6 @@
     }
   },
   {
-    "id": "441",
     "name": "Naan, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5178,7 +5004,6 @@
     }
   },
   {
-    "id": "442",
     "name": "Chapati, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5190,7 +5015,6 @@
     }
   },
   {
-    "id": "443",
     "name": "Croissants, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5202,7 +5026,6 @@
     }
   },
   {
-    "id": "444",
     "name": "Brioche, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5214,7 +5037,6 @@
     }
   },
   {
-    "id": "445",
     "name": "Pizza dough, bread",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5226,7 +5048,6 @@
     }
   },
   {
-    "id": "446",
     "name": "Egg noodles",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5238,7 +5059,6 @@
     }
   },
   {
-    "id": "447",
     "name": "Udon noodles",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
@@ -5250,7 +5070,11 @@
     }
   },
   {
-    "id": "448",
+    "name": "Hokkein noodles",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
     "name": "Papaya, dried",
     "fodmap": "medium",
     "qty": "5g",
@@ -5263,7 +5087,6 @@
     }
   },
   {
-    "id": "449",
     "name": "Raisins, dried",
     "fodmap": "medium",
     "qty": "12g",
@@ -5276,7 +5099,6 @@
     }
   },
   {
-    "id": "450",
     "name": "Pineapple juice",
     "fodmap": "medium",
     "qty": "100 ml",
@@ -5289,7 +5111,6 @@
     }
   },
   {
-    "id": "450",
     "name": "Tomato juice",
     "fodmap": "medium",
     "qty": "200 ml",
@@ -5302,7 +5123,6 @@
     }
   },
   {
-    "id": "451",
     "name": "Guava, canned",
     "fodmap": "medium",
     "qty": "45g",
@@ -5315,7 +5135,6 @@
     }
   },
   {
-    "id": "451",
     "name": "Guava juice",
     "fodmap": "high",
     "category": "Drinks",
