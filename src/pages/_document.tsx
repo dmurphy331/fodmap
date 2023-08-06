@@ -19,13 +19,7 @@ class MyDocument extends Document {
   render(): ReactElement {
     return (
       <Html lang="en-GB" className="antialiased">
-        <Head>
-          <meta charSet="utf-8" />
-          <meta
-            name="viewport"
-            content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no"
-          />
-        </Head>
+        <Head />
         <body className="bg-slate-50">
           <Main />
           <NextScript />
